@@ -1,18 +1,15 @@
-# Html-on-steroids
-the power of emmet inbuilt in vs code 
+# HTML-on-steroids
+The power of emmet inbuilt in vs code 
 
 
-## what is emmet 
-emmets are inbuilt snippets that is available on visual studio code
-
-
+## what is Emmet
+Emmets are inbuilt snippets of boilerplate code that is available for editors like Visual Studio Code. 
+> Subjective definition-wise, Boilerplate code is any seemingly repetitive code that shows up again and again in order to get some result that seems like it ought to be much simpler.
 ## here is an example 
-if you neglect my typing speed, emmet can make you **3x** faster while writing code in html.
+if you neglect my typing speed, emmet can make you **3x** faster while writing code in HTML.
 ![](https://github.com/SiliconPaste/Html-on-steroids/blob/main/example.gif)
 
 ## Here is the cheatsheet for emmet 
-
-- https://www.interviewbit.com/emmet-cheat-sheet/
-
-- also you can watch this vedio https://www.youtube.com/watch?v=V8vizNQKtx0
+- [Emmet cheatsheet](https://www.interviewbit.com/emmet-cheat-sheet/)
+- also you can watch this [video](https://www.youtube.com/watch?v=V8vizNQKtx0)
 
